@@ -14,7 +14,7 @@ def reverso(valor):
     """
     try:
 
-    #convertendo para str, invertendo e convertendo de volta para int
+    #...convertendo para str, invertendo e convertendo de volta para int
         valor_str = str(valor)
         valor_invertido_str = valor_str[::-1]
         valor_invertido = int(valor_invertido_str)

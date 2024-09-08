@@ -28,7 +28,7 @@ try:
     num2 = int(input('Digite o valor 2: '))
     num3 = int(input('Digite o valor 3: '))
 
-#armazenando o resultado ele pode ser utilizado posteriormente
+#armazenando o resultado ele pode ser utilizado posteriormente....
     resultado = soma(num1, num2, num3)
     print(f'A soma dos valores é = {resultado}')
 #trata o erro quando o usuário insere um valor não numérico
