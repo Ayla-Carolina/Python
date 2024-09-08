@@ -53,7 +53,7 @@ def fahrenheit_para_celsius(fahrenheit):
 
 #criando uma função principal para organizar o fluxo
 #o while vai garantir que o usuário insira uma opção válida
-#criação de uma terceira opcao para sair do programa
+#criação de uma terceira opcao para sair do programa...
 
 def main():
     while True:
